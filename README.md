@@ -10,7 +10,7 @@ Dependencies:
 
 Setup:
 * Copy the file to  lib / classes / Swift / Signers
-* Generate GPG keys (without passphrases), in the examples below the keys are put in folder home subfolder .gnupg
+* Generate GPG keys (without passphrases), in the examples below the keys are put in folder home subfolder .pgp
 
 Usage example for e-mail signing:
 ```
