@@ -14,7 +14,7 @@ Setup:
 
 Usage example for e-mail signing:
 ```
-$path = "~/.gnupg";
+$path = "~/.pgp";
 $message = Swift_Message::newInstance()
 ->setSubject('Your subject')
 ->setBody('Here is the message itself','text/html');
