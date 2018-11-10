@@ -1,6 +1,7 @@
 # switfmailer-openpgp
 OpenPGP signer for SwiftMailer
 needs to change from php5-gnupg to the opengpg-php dependancy
+https://github.com/singpolyma/openpgp-php
 
 WIP, help welcome :)
 
